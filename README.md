@@ -4,6 +4,6 @@
 ## My website
 #### My website, which is still work in progress, is located at https://98129182screations.98129182.repl.co/.
 ## Where can you contact me?
-#### You can contact me on Discord. My username and discriminator is Obby_Master and 3625.
+#### You can contact me on Discord. My username and discriminator is iylun and 3625.
 ## Where am I located?
 #### Somewhere in Vancouver. :)
